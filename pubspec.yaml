@@ -55,8 +55,13 @@ flutter:
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
+
   uses-material-design: true
 
+  assets:
+    - ios/assets/images/restaurant.jpg
+    - ios/assets/images/restaurantthree.jpg.jpg
+    - ios/assets/images/restauranttow.jpg.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

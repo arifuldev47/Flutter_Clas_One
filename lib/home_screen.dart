@@ -81,7 +81,6 @@ class Homescreen extends StatelessWidget {
                               ),
                             ),
                             const SizedBox(height: 5),
-
                             const Text(
                               "Meditation • 3-10 min",
                               style: TextStyle(
@@ -222,7 +221,6 @@ class Homescreen extends StatelessWidget {
                     ],
                   ),
                 ),
-
                 const SizedBox(height: 25),
               ],
             ),

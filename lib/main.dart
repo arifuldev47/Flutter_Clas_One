@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:second_class_app/Homescreen.dart';
+import 'home_screen.dart';
+import 'screens/orders_screen.dart';
 void main(){
   runApp(const MyApp());
 }
@@ -10,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Homescreen(),
+      home: OrdersScreen(),
     );
   }
 }
