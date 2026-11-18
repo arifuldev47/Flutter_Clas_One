@@ -1,17 +1,32 @@
-# second_class_app
+Flutter Class Projects 📱
 
-A new Flutter project.
+This repository contains my Flutter learning projects and practical exercises using Dart.
 
-## Getting Started
+🚀 Projects Included
 
-This project is a starting point for a Flutter application.
+- Meditation App
+- Food Delivery App UI
+- Flutter UI Practice
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android Studio
+- VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📚 Learning Goals
+
+- Flutter Widgets
+- UI Design
+- Screen Navigation
+- Dart Programming
+- Mobile App Development
+
+👨‍💻 Developer
+
+Ariful Islam
+
+Flutter Developer Intern
+
+GitHub: https://github.com/arifuldev47
